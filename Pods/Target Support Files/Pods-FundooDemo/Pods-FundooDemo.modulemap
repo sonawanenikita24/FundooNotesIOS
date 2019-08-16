@@ -1,0 +1,6 @@
+framework module Pods_FundooDemo {
+  umbrella header "Pods-FundooDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
